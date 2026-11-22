@@ -1,0 +1,43 @@
+namespace MiniHospital.Config
+{
+    public enum NavNode
+    {
+        Outside,
+        Sidewalk,
+        Threshold,
+        Inside,
+        BusCorner,
+        BusStop,
+        SouthWest,
+        SouthEast,
+        Reception1,
+        Reception2,
+        Reception3,
+        ReceptionStaff1,
+        ReceptionStaff2,
+        ReceptionStaff3,
+        StaffSouth,
+        WestNorth,
+        G1Hall,
+        G2Hall,
+        G3Hall,
+        G1Door,
+        G2Door,
+        G3Door,
+        EastRadiology,
+        EastPsychiatry,
+        RadiologyDoor,
+        PsychiatryDoor,
+        RadiologyIn,
+        PsychiatryIn,
+        Aisle1,
+        Aisle2,
+        Aisle3,
+        Aisle4,
+        AisleMid1,
+        AisleMid2,
+        StandEast,
+        StandEast2,
+        StandWest
+    }
+}
